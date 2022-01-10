@@ -4,7 +4,7 @@
       <router-link to="/">Home</router-link> |
       dsvf
       <router-link to="/about">About</router-link>
-      sss
+      sssgit 
     </div>
     <router-view/>
   </div>

@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: "/vue-examps/"
+    publicPath: "/vue-repo/"
 }
